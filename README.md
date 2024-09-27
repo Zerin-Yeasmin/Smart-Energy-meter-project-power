@@ -1,5 +1,5 @@
 # Smart-Energy-meter-project-power
-Implementing a smart energy meter that includes cost calculation, and over-consumption protection
+Implementing a smart energy meter that includes cost calculation, and over-consumption protection.
 This project aimed to receive input current from any electrical 
 equipment and then feed it through the smart energy meter, which would calculate 
 current and voltage to determine power use and anticipated electricity cost.
